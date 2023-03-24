@@ -1,10 +1,3 @@
-for(int j; j<=0;j++){
-for(int j1; j1<=0;j++){
-for(int j2; j2<=0;j++){
-for(int j3; j3<=0;j++){
-for(int j4; j4<=0;j++){
-for(int j5; j5<=0;j++){
-for(int j6; j6<=0;j++){
-};};};};};
-};
-};
+while(1){
+cout<<"probando"<<endl;
+}
